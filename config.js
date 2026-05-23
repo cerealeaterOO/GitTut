@@ -1,2 +1,2 @@
 console.log("cofing.js");
-console.log("version3");
+console.log("version4");
